@@ -1,0 +1,23 @@
+149p_exercise
+
+7.
+temp = int(input("온도를 입력하시오: "))
+
+if temp < 0 :
+    state ="얼음"
+else :
+    state = "기체"
+print(state)
+
+
+8. 아래에 있는 것. 가독성 있는 프로그램을 제공하려면 논리식에서 변수를 True 나 False와 비교하면 안되기 때문
+
+
+9. print 둘 다 들여쓰기를 해야한다
+
+10.
+if city != "서울" and city != "부산":
+
+11.
+b가 더 좋음. 깔끔하고, 논리적임, 조건을 한번만 보면 됨
+
