@@ -1,0 +1,5 @@
+132p_중간점검
+
+1. age >= 25 and salary >= 3500
+
+2. False

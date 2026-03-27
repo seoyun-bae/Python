@@ -1,0 +1,33 @@
+148p_exercise
+
+1. 4
+
+2. 2,3
+
+3(a).
+if speed >= 60 and speed <= 100 :
+    print("정상속도")
+
+3(b)).
+max = (x if x > y else y)
+min = (x if x < y else y)
+
+3(c).
+if op = 1 :
+    print("one")
+elif op = 2 :
+    print("two")
+elif op = 3 :
+    print("three")
+
+4(a).
+if x > 10 and x < 20 :
+    print(x)
+
+4(b).
+if x < 10 or x > 20 :
+    print(x)
+
+5. 20살 이상
+
+6. =이 아니라 ==을 써야한다
