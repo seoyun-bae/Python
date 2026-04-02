@@ -1,0 +1,40 @@
+197p_exercise
+
+7. 
+11번 
+
+
+8.  
+100
+
+
+9.  
+1번째 반복
+digit = 9
+sum = 9
+n = 134
+
+2번째 반복
+digit = 4
+sum = 13
+n = 13
+
+3번째 반복
+digit = 3
+sum = 16
+n = 1
+
+4번째 반복
+digit = 1
+sum  = 17
+n = 0
+
+sum = 17
+
+
+
+10.
+10 TV
+10 Phone
+20 TV
+20 Phone
