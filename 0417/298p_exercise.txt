@@ -1,0 +1,26 @@
+1.
+2
+6
+2,3
+6
+4
+6
+21
+
+2.
+values = [0] * 10
+values = list(range(1,11))
+values = list(range(2,11,2))
+values = [i**2 for i in range(1, 11)]
+
+3.
+[40, 50, 60]
+
+4.
+print(aList[-2]) = 50 print(aList[-3:-1]) = [40, 50]
+
+5.
+[60, 40, 20]
+
+6.
+['HelloWorld', 'HelloBye', 'GoodWorld', 'GoodBye']
