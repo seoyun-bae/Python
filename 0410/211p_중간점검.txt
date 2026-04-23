@@ -1,0 +1,14 @@
+211p_중간점검
+
+1. 인수
+
+2. 매개변수 
+
+3. 
+def get_two_numbers():
+	a = int(input("첫 번째 정수: "))
+	b = int(input("두 번째 정수: "))
+	return a, b
+
+n1, n2 = get_two_numbers()
+print(f"입력받은 값: {n1}, {n2}")

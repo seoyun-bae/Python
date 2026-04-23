@@ -1,0 +1,15 @@
+213p_중간점검
+
+1.
+def get_rect_area(w, h):
+	return w * h
+
+2.
+def get_rect_area(w, h):
+    return w * h
+
+def main():
+    area = get_rect_area(5, 10)
+    print(area)
+
+main()
