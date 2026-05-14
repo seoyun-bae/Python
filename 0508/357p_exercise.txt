@@ -1,0 +1,11 @@
+13. {"Milk", "Orange", "Bread", "Butter"}
+
+14. (a),(c)
+
+15. True/True
+
+16. (b), 문법 오류
+
+17.(b)
+
+18. (b) ord("c")

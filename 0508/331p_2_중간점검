@@ -1,0 +1,3 @@
+my_dict = {'이름': '홍길동', '나이': 20, '학점': 'A'}
+for key in my_dict:
+    print(key)

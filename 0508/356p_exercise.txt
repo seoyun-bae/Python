@@ -1,0 +1,13 @@
+6. (b),(d)
+
+7. (b)
+
+8. mydict["emp3"]["salary"]= 8500
+
+9. student.pop("score")
+
+10.(a),(b)
+
+11. (a),(c)
+
+12. (a) True
