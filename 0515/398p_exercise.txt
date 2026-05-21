@@ -1,0 +1,16 @@
+1.
+p.data
+
+2. 
+init
+
+3. 
+Good Morning
+
+4. 
+class Myclass: 
+    def init(self): 
+        self.radius = 10
+        
+    def set_radius(self, radius):
+    self.radius = radius

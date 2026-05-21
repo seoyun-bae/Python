@@ -1,0 +1,13 @@
+5. private필드에 접근할 수 없다
+
+class MyClass:
+	def __init__(self, r):
+		self.__radius = r
+
+a = MyClass(10)
+print(a.__radius)
+
+
+6. 1
+
+7. Bark!, Animal sound
