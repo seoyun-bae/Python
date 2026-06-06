@@ -1,4 +1,4 @@
-# 📂 Week 5: Python Functions (함수)
+# 🚀 Week 5: Python Functions (함수)
 
 ## 1. 함수의 개념 및 필요성
 * **함수(Function):** 특정 작업을 수행하는 명령어들의 모음에 이름을 붙인 것입니다.
