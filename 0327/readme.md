@@ -1,4 +1,4 @@
-# 🚀 Week 4: 반복문 (Loop Statements)
+# 🚀 Week 4: 반복문
 # ㄴ(📖python express - 155p ~ 202p)
 
 ## 1. 횟수 제어 반복: `for` 문
