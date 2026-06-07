@@ -1,5 +1,5 @@
 # 🚀 Week 2: 변수와 수식
-# ㄴ(📖python express - 57p ~ 105p)
+# ㄴ(📖python express - 57p ~ 112p)
 
 
 ## 1. 변수 와 상수
