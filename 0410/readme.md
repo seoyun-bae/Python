@@ -1,4 +1,4 @@
-# 🚀 Week 5: Python Functions (함수)
+# 🚀 Week 5: 함수
 # ㄴ(📖python express - 203p ~ 250p)
 
 ## 1. 함수의 개념 및 필요성
